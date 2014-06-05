@@ -2,6 +2,12 @@
 
 Connect to a URL with redis-cli.
 
+## Install
+
+```
+npm install -g redis-clurl
+```
+
 ## Usage
 
 ```

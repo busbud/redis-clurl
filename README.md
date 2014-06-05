@@ -2,6 +2,18 @@
 
 Connect to a URL with redis-cli.
 
+## Usage
+
+```
+redis-clurl <url> [args...]
+```
+
+Example:
+
+```
+redis-clurl redis://user:password@host:port get some:key
+```
+
 ## License
 
 Copyright © 2014 Busbud, Inc.

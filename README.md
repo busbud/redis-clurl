@@ -11,7 +11,8 @@ redis-clurl <url> [args...]
 Example:
 
 ```
-redis-clurl redis://user:password@host:port get some:key
+redis-clurl redis://user:password@host:1234 get some:key
+redis-cli -h host -p 1234 -a password get some:key
 ```
 
 ## License

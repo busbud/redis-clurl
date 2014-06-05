@@ -1,0 +1,26 @@
+{
+  "name": "redis-clurl",
+  "version": "0.0.0",
+  "description": "Connect to a URL with redis-cli",
+  "bin": {
+    "redis-clurl": "./redis-clurl.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/busbud/redis-clurl"
+  },
+  "keywords": [
+    "redis",
+    "url",
+    "cli"
+  ],
+  "author": "Busbud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/busbud/redis-clurl/issues"
+  },
+  "homepage": "https://github.com/busbud/redis-clurl"
+}
